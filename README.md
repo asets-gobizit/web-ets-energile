@@ -1,6 +1,6 @@
 # ets.gmnrconsultants.com
 
-Joint-venture landing page: **Energile Markets × GMNR Consultants** — EU ETS / carbon-credit advisory for Spanish companies.
+Joint-venture landing page: **Energile Markets & GMNR Consultants** — EU ETS / carbon-credit advisory for Spanish companies.
 
 ## What's in here
 
